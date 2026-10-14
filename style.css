@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(219, 196, 240);
+}
+#card{
+    height: 350px;
+    width: 300px;
+    background-color: white;
+    border-radius: 50px;
+    text-align: center;
+    padding: 30px;
+    margin: 50px auto;
+    font-family: cursive;
+}
+img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border-color: blueviolet;
+    border-style: dotted;
+    background-color: beige;
+    text-align: center;
+}
+h1{
+    color: blueviolet;
+}
+#i{
+    font-size: 24px;
+    margin: 2px;
+    color: black;
+}
